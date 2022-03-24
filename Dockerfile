@@ -1,3 +1,3 @@
-FROM matomo:4.8.0-fpm-alpine
+FROM matomo:4.8.0
 
 EXPOSE 9000
