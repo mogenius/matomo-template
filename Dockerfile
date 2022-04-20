@@ -1,1 +1,3 @@
 FROM matomo:4.8.0
+
+USER 1000
